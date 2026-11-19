@@ -1,0 +1,13 @@
+# Données téléchargées par le notebook (le CSV est re-téléchargé à l'exécution)
+notebooks/resources/*.csv
+
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
